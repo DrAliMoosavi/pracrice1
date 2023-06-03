@@ -1,0 +1,22 @@
+.top-container{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+margin-top: -22px;
+margin-left: -7px;
+}
+.middle-container{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(228, 18, 18);
+    margin-left: -7px;
+
+}
+
+.bottom-container{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(26, 44, 148);
+    margin-left: -7px;
+}
+
